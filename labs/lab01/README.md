@@ -7,7 +7,7 @@ The table of contents for this lab is found below.
 Part 1. Workstation Setup <br>
 Part 2. Submission <br>
 
-Create a copy of this google document [lastname_lab01]() (File > Make a Copy) to record all of your assignment answers in.
+Create a copy of this google document [lastname_lab01](https://docs.google.com/document/d/1tFKmz9hf0MvN5OesWVDudbO5EwgtEz30zUYiuPoru2s/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
 
 > :warning: Failure to use answer document properly will result in a 10pt deduction from final score.
 
