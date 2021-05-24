@@ -33,8 +33,12 @@ Now, lets set up our Kali machine. We'll be doing a fresh install of an operatin
 
 **Step 1.1** Follow the below instructions to create a new VM and install Kali on it.
 
-Windows 10 - [VMWare Workstation](https://www.nakivo.com/blog/install-kali-linux-vmware/) - [PDF](files/file1.pdf) <br>
-macOS - [VMWare Fusion](https://geekflare.com/kali-linux-installation-guide-vmware/) - [PDF](files/file2.pdf)
+> :warning: When downloading VMWare, please be sure to download the "Pro" version and not the "Player" version.
+
+Windows 10 - [VMWare Workstation Pro](https://www.nakivo.com/blog/install-kali-linux-vmware/) - [PDF](files/file1.pdf) <br>
+macOS - [VMWare Fusion Pro](https://geekflare.com/kali-linux-installation-guide-vmware/) - [PDF](files/file2.pdf)
+
+The product key (serial number) for the software should be in your order details (User Account (top right corner) > Your Account/Orders > View Details ) and email confirmation.
 
 Use the below specifications and options to create your VM:
 
