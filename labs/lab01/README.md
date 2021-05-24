@@ -11,7 +11,7 @@ Create a copy of this google document [lastname_lab01]() (File > Make a Copy) to
 
 > :warning: Failure to use answer document properly will result in a 10pt deduction from final score.
 
-This week, we learned about a bit about the hardware and software used by our laptops and other mobile devices. In this lab, we'll be setting up one of the workstations that we'll be using this semester. To do this, we'll be creating a *virtual machine (VM)*. We will be discussing virtualization in much greater depth later this semester, so if you don't fully understand what you are doing when you follow the instructions, don't worry! By the end of the semester you'll be familiar with the terminology and process used to get a VM up and running!
+This week, we learned a bit about the hardware and software used by our laptops and other mobile devices. In this lab, we'll be setting up one of the workstations that we'll be using this semester. To do this, we'll be creating a *virtual machine (VM)*. We will be discussing virtualization in much greater depth later this semester, so if you don't fully understand what you are doing when you follow the instructions, don't worry! By the end of the semester you'll be familiar with the terminology and process used to get a VM up and running!
 
 ## Part 1: Workstation Setup 
 
