@@ -3,14 +3,13 @@
 ### Course Instructors
 **Instructor:** Michael Conti (michaelconti@uri.edu)
 
-**Teaching Assistants:** TBD <br>
+<!-- **Teaching Assistants:** TBD <br> -->
 
 | Day | Staff Member |  Time |
 | --- | --- | --- |
-|Monday |   TBD |   TBD |
-|Tuesday |   TBD |   TBD |
-|Wednesday |   TBD |   TBD |
-|Thursday |   TBD |   TBD |
+|Thursday |   Michael |  11:00a - 12:00p |
+
+> [Office Hour Meeting Link](https://uri-edu.zoom.us/my/mikeconti)
 
 ### Course Overview
 
