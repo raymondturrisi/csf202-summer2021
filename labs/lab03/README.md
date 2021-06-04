@@ -119,12 +119,12 @@ print ("Line 5 - Value of c is ", c) #Checkpoint#05
 a = 2
 b = 3
 c = a**b #Hint: The ** is the "exponentiation" operator ~ which returns a^b (e.g 2**3 == 8).
-print "Line 6 - Value of c is ", c #Checkpoint#06
+print ("Line 6 - Value of c is ", c) #Checkpoint#06
 
 a = 10
 b = 5
 c = a//b #Hint: The // is the "floor division" operator ~ which drops the remainder part of the quotient (e.g 12//5 == 2). 
-print "Line 7 - Value of c is ", c #Checkpoint#07
+print ("Line 7 - Value of c is ", c) #Checkpoint#07
 
 ```
 
