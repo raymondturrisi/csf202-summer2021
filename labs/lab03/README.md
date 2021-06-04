@@ -146,7 +146,7 @@ print ("Line 7 - Value of c is ", c) #Checkpoint#07
 
 > Retrace your code and see if you can get the same answer as the output when you ran the code. Understand where you went wrong!
 
-:interrobang: Question 10. Write a program that stores your `name`, `major`, and `student-id` in variables. Use those in a printout statement. (e.g: Hello! My name is Michael and I am a Computer Science Major. My URI student-id is 123456) <br>
+:interrobang: Question 10. Write a program that stores your `name`, `major`, and `student-id` in variables. Use those in a printout statement. (e.g: Hello! My name is Michael and I am a Computer Science Major. My URI student-id is 123456) and submit a screenshot of your programs output.
 
 ## Part 5. Submission
 
