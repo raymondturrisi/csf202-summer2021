@@ -102,19 +102,19 @@ b = 10
 c = 0
 
 c = a + b
-print "Line 1 - Value of c is ", c #Checkpoint#01
+print ("Line 1 - Value of c is ", c) #Checkpoint#01
 
 c = a - b
-print "Line 2 - Value of c is ", c #Checkpoint#02
+print ("Line 2 - Value of c is ", c) #Checkpoint#02
 
 c = a * b
-print "Line 3 - Value of c is ", c #Checkpoint#03
+print ("Line 3 - Value of c is ", c) #Checkpoint#03
 
 c = a / b
-print "Line 4 - Value of c is ", c #Checkpoint#04
+print ("Line 4 - Value of c is ", c) #Checkpoint#04
 
 c = a % b #Hint: The % is the "modulus" operator ~ which returns the remainder of the expression (e.g (7 % 3 == 1)).
-print "Line 5 - Value of c is ", c #Checkpoint#05
+print ("Line 5 - Value of c is ", c) #Checkpoint#05
 
 a = 2
 b = 3
