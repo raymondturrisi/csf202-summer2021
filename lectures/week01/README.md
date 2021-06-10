@@ -8,7 +8,7 @@
 
 ## Lecture Reading
 
-Security+ Certification 5th Edition - Chapter 1: Malware and Indicators of Compromise
+A+ Certification 10th Edition - Chapter 2: The Visible Computer <br>
 
 ## Lecture Videos
 
