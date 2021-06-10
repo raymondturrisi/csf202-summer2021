@@ -102,29 +102,29 @@ b = 10
 c = 0
 
 c = a + b
-print "Line 1 - Value of c is ", c #Checkpoint#01
+print ("Line 1 - Value of c is ", c) #Checkpoint#01
 
 c = a - b
-print "Line 2 - Value of c is ", c #Checkpoint#02
+print ("Line 2 - Value of c is ", c) #Checkpoint#02
 
 c = a * b
-print "Line 3 - Value of c is ", c #Checkpoint#03
+print ("Line 3 - Value of c is ", c) #Checkpoint#03
 
 c = a / b
-print "Line 4 - Value of c is ", c #Checkpoint#04
+print ("Line 4 - Value of c is ", c) #Checkpoint#04
 
 c = a % b #Hint: The % is the "modulus" operator ~ which returns the remainder of the expression (e.g (7 % 3 == 1)).
-print "Line 5 - Value of c is ", c #Checkpoint#05
+print ("Line 5 - Value of c is ", c) #Checkpoint#05
 
 a = 2
 b = 3
 c = a**b #Hint: The ** is the "exponentiation" operator ~ which returns a^b (e.g 2**3 == 8).
-print "Line 6 - Value of c is ", c #Checkpoint#06
+print ("Line 6 - Value of c is ", c) #Checkpoint#06
 
 a = 10
 b = 5
 c = a//b #Hint: The // is the "floor division" operator ~ which drops the remainder part of the quotient (e.g 12//5 == 2). 
-print "Line 7 - Value of c is ", c #Checkpoint#07
+print ("Line 7 - Value of c is ", c) #Checkpoint#07
 
 ```
 
@@ -146,7 +146,7 @@ print "Line 7 - Value of c is ", c #Checkpoint#07
 
 > Retrace your code and see if you can get the same answer as the output when you ran the code. Understand where you went wrong!
 
-:interrobang: Question 10. Write a program that stores your `name`, `major`, and `student-id` in variables. Use those in a printout statement. (e.g: Hello! My name is Michael and I am a Computer Science Major. My URI student-id is 123456) <br>
+:interrobang: Question 10. Write a program that stores your `name`, `major`, and `student-id` in variables. Use those variables in a printout statement (e.g: Hello! My name is Michael and I am a Computer Science Major. My URI student-id is 123456) and submit a screenshot of your program's output.
 
 ## Part 5. Submission
 
