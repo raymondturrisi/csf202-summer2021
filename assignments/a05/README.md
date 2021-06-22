@@ -12,7 +12,7 @@ The table of contents for this lab is found below.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Part 2: Troubleshooting: Common Hardware Problems,  Hard Drives, Video and Display Issues <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Part 3: Submission <br>
 
-## Part 1: Part 1: Cloud: Models, Services, and Virtualization
+## Part 1: Cloud: Models, Services, and Virtualization
 
 :interrobang: Question 1 - What is "the cloud"?
 
