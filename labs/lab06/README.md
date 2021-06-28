@@ -17,7 +17,7 @@ Once installed, We'll be looking at some of the security features Android has to
 
 ## Part 1 - Android VM Setup
 
-**Step 1.1** Download the Android ISO file [here](https://drive.google.com/uc?id=1ICyhvX_fOBtfdDC9y8Q1H-v_GmcIXA3h&export=download) <br>
+**Step 1.1** Download the Android ISO file [here](https://drive.google.com/uc?id=1N3cKoGnsPr0dvMakKPjj7xAxSEl6gvRq&export=download) <br>
 
 **Step 1.2** Create a new VM in VMWare named `android-os` using the Android ISO downloaded in Step 1.1 <br>
 
