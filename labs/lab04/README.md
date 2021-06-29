@@ -115,15 +115,13 @@ You can find a summary of the simulator controls below:
 
 :interrobang: Question 8. Provide a screenshot of the heat sink (CPU cooler) successfully installed on your machine.
 
-:interrobang: Question 9. Provide a screenshot of the heat sink (CPU cooler) successfully installed on your machine.
+:interrobang: Question 9. Provide a screenshot of the GPU successfully installed on your machine.
 
-:interrobang: Question 10. Provide a screenshot of the GPU successfully installed on your machine.
+:interrobang: Question 10. Provide a screenshot of the four (4x) RAM modules successfully installed on your machine.
 
-:interrobang: Question 11. Provide a screenshot of the four (4x) RAM modules successfully installed on your machine.
+:interrobang: Question 11. Provide a screenshot of the HDD modules successfully installed on your machine.
 
-:interrobang: Question 12. Provide a screenshot of the HDD modules successfully installed on your machine.
-
-:interrobang: Question 13. Provide a screenshot of the fan successfully installed on your machine.
+:interrobang: Question 12. Provide a screenshot of the fan successfully installed on your machine.
 
 At this point, all of the computer components have been successfully installed. Now it's time to install the computer cabling so these devices have power and data lines.
 
@@ -131,17 +129,17 @@ At this point, all of the computer components have been successfully installed. 
 
 > :bulb: Tip: you can rotate the computer using the buttons on the wall to the left of the machine. This can be helpful with connecting the SATA power and data lines for your HDD.
 
-:interrobang: Question 14. Provide a screenshot of the EPS12V power cable info-pane once successfully installed on your machine.
+:interrobang: Question 13. Provide a screenshot of the EPS12V power cable info-pane once successfully installed on your machine.
 
-:interrobang: Question 15. Provide a screenshot of the 20/24 ATX power cable info-pane once successfully installed on your machine.
+:interrobang: Question 14. Provide a screenshot of the 20/24 ATX power cable info-pane once successfully installed on your machine.
 
-:interrobang: Question 16. Provide a screenshot of the PCI-E power cable (8 pin or 6 pin) info-pane once successfully installed on your machine.
+:interrobang: Question 15. Provide a screenshot of the PCI-E power cable (8 pin or 6 pin) info-pane once successfully installed on your machine.
 
-:interrobang: Question 17. Provide a screenshot of the SATA power cable info-pane once successfully installed on your machine.
+:interrobang: Question 16. Provide a screenshot of the SATA power cable info-pane once successfully installed on your machine.
 
-:interrobang: Question 18. Provide a screenshot of the SATA data cable info-pane once successfully installed on your machine.
+:interrobang: Question 17. Provide a screenshot of the SATA data cable info-pane once successfully installed on your machine.
 
-:interrobang: Question 19. Provide a screenshot of the "Congratulations, you have finished assembling your computer" message.
+:interrobang: Question 18. Provide a screenshot of the "Congratulations, you have finished assembling your computer" message.
 
 And that's all it takes to build a computer! Not do bad, right? Your final product should look like the machine below:
 
