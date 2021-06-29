@@ -64,9 +64,9 @@ Android:/Android # mount -o remount,rw /mnt
 
 **Step 1.12** cd into the `/mnt` directory
 
-**Step 1.13** List all of the files / directories at this current directory.
-
 <img src="images/fig3.png" width="600px">
+
+**Step 1.13** cd into the `grub` directory and list all of the files / directories at this current directory.
 
 Now, we are going to edit the menu.lst grub loader file with the terminal text editor tool `vi`.
 
@@ -84,22 +84,22 @@ Android:/Android # vi menu.lst
 
 Now, we need to exit "edit" mode in `vi`. Right now, anything we type will edit the `menu.lst` file. 
 
-**Step 1.16** Exit edit mode in vi with `shift + :`<br>
+**Step 1.17** Exit edit mode in vi with `shift + :`<br>
 
 In the bottom of the left hand corner, you should see a `:` prompt. This means you are no longer editing the file.
 
-**Step 1.17** Type in `wq` and hit `enter`<br>
+**Step 1.18** Type in `wq` and hit `enter`<br>
 
 <img src="images/fig5.png" width="600px">
 
 Now, you should be back in the normal terminal environment.
 
-**Step 1.18** Run the below command to reboot your VM
+**Step 1.19** Run the below command to reboot your VM
 
 ```cmd
 Android:/Android # reboot -f
 ```
-**Step 1.19** Select the normal boot option. Android should begin to boot.
+**Step 1.20** Select the normal boot option. Android should begin to boot.
 
 > You might see the console prompt and black screen for a moment or two. Give it a minute to load.
 
