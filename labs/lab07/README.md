@@ -8,7 +8,7 @@ The table of contents for this lab is found below.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Part 2: ipconfig, netstat, and tracert<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Part 3: Submission <br>
 
-Create a copy of this google document [lastname_lab07]() (File > Make a Copy) to record all of your assignment answers in.
+Create a copy of this google document [lastname_lab07](https://docs.google.com/document/d/1vugvmfVL2MCUJ6H9mxCEQkjuSMve246xEkIQ3_QWxQU/edit?usp=sharing) (File > Make a Copy) to record all of your assignment answers in.
 
 In this lab, we'll get some more experance with the windows shell or CMD.
 
