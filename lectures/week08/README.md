@@ -4,7 +4,7 @@
 
 | Week | Topics |  Deliverables | Due Dates |
 | --- | --- | --- | --- |
-| Week 8 | System Config / Task Manager / System Utilities <br> HomeGroups / Workgroups / Domains /  Windows Firewall  | A08, Lab08, Q08 | 07/11/2021 |
+| Week 8 | System Config / Task Manager / System Utilities <br> HomeGroups / Workgroups / Domains /  Windows Firewall  | A08, Lab08, Q08 | 07/18/2021 |
 
 ## Lecture Reading
 
