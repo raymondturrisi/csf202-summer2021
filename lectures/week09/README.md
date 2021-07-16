@@ -4,7 +4,7 @@
 
 | Week | Topics |  Deliverables | Due Dates |
 | --- | --- | --- | --- |
-| Week 9 | Windows IP Addressing /  Best Practices (macOS) <br> macOS Tools / Best Practices (Linux) / Linux Terminal | A09, Lab09, Q09 | 07/18/2021 |
+| Week 9 | Windows IP Addressing /  Best Practices (macOS) <br> macOS Tools / Best Practices (Linux) / Linux Terminal | A09, Lab09, Q09 | 07/25/2021 |
 
 ## Lecture Reading
 
