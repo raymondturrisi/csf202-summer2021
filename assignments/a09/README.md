@@ -89,7 +89,9 @@ The table of contents for this lab is found below.
  </tr>
 </table>
 
-:interrobang: Question 27 - Fill out the bellow permission table key: <br>
+:interrobang: Question 27 - Fill out the below permission table key: <br>
+
+<img src="images/fig1.png">
 
 Label A: `_______`  <br>
 Label B: `_______`  <br>
