@@ -91,7 +91,7 @@ The table of contents for this lab is found below.
 
 :interrobang: Question 27 - Fill out the below permission table key: <br>
 
-<img src="images/fig1.png">
+<img src="images/fig1.png" width="600px">
 
 Label A: `_______`  <br>
 Label B: `_______`  <br>
